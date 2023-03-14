@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIT.Api", "RIT.Api\RIT.Api.csproj", "{3D306A9A-A576-421F-9C1D-7B9B20157E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIT.Data", "RIT.Data\RIT.Data.csproj", "{0D69FE8D-A96C-4F6B-BF0B-1BB6C572BFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D306A9A-A576-421F-9C1D-7B9B20157E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D306A9A-A576-421F-9C1D-7B9B20157E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D306A9A-A576-421F-9C1D-7B9B20157E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D306A9A-A576-421F-9C1D-7B9B20157E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D69FE8D-A96C-4F6B-BF0B-1BB6C572BFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D69FE8D-A96C-4F6B-BF0B-1BB6C572BFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D69FE8D-A96C-4F6B-BF0B-1BB6C572BFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D69FE8D-A96C-4F6B-BF0B-1BB6C572BFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
